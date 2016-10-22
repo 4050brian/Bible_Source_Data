@@ -8,3 +8,10 @@ The Bible database format will be discussed in the attached document or for more
 https://thebibleinfo.wordpress.com/
 
 Peace for all 
+
+Important note's
+
+The Microsoft SQL database is bible.rar(had to zip it because of size) The structure is now more or less the same(90%) as the mySQL database that can be downloaded from:
+https://github.com/scrollmapper/
+
+Although the original database structure where more or less the same anyway(minor naming and structure) the benefits of a similar standard structure made sense
